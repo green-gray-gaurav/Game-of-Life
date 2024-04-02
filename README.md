@@ -26,4 +26,4 @@
 ![s3](https://github.com/green-gray-gaurav/Game-of-Life/blob/main/Screenshot%202024-02-10%20021751.png)
 
 
-[this is the link for the web version of this game](https://green-gray-gaurav.github.io/Game-of-Life/)
+[This is the link for the web version of this game](https://green-gray-gaurav.github.io/Game-of-Life/)
