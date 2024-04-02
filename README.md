@@ -27,3 +27,5 @@
 
 
 [This is the link for the web version of this game](https://green-gray-gaurav.github.io/Game-of-Life/)
+
+![web based game of life ss](https://github.com/green-gray-gaurav/Game-of-Life/blob/web_version/Screenshot%202024-04-02%20173935.png)
